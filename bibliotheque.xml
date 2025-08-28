@@ -1,0 +1,13 @@
+<bibliotheque>
+  <livre>
+    <id>1</id>
+    <titre>Titre du livre</titre>
+    <auteur>Auteur du livre</auteur>
+    <annee>Année de publication</annee>
+    <genre>Genre du livre</genre>
+    <isbn>ISBN du livre</isbn>
+    <description>Description du livre</description>
+    <disponible>true</disponible>
+  </livre>
+  <!-- Autres livres -->
+</bibliotheque>
